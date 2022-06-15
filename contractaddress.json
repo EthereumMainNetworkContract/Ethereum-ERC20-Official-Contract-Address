@@ -1,10 +1,6 @@
 {
-  "name": "Ethereum ERC-20 Token List",
+  "name": "ERC-20 Token List",
   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-  "keywords": [
-    "Ethereum",
-    "ERC-20"
-  ],
   "timestamp": "2022-06-16T20:37:00.000+00:00",
   "tokens": [
     {
@@ -46,8 +42,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
     }
-
-  ],
+   ],
   "version": {
     "major": 1,
     "minor": 0,
