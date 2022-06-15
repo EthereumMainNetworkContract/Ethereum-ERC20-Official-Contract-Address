@@ -1,6 +1,15 @@
 {
   "name": "ERC-20 Token List",
   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens",
+    "uniswap",
+    "default",
+    "list"
+  ],
+  
   "timestamp": "2022-06-16T20:37:00.000+00:00",
   "tokens": [
       {
