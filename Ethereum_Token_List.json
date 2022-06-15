@@ -1,0 +1,52 @@
+{
+  "name": "ERC-20 Token List",
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+  "timestamp": "2022-06-16T20:37:00.000+00:00",
+  "tokens": [
+      {
+          "chainId": 3,
+          "address": "0x2259C025E0a20148912695abBd4E02EC89550276",
+          "name": "Wrapped Ethereum",
+          "symbol": "WETH",
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+      },
+      {
+          "chainId": 3,
+          "address": "0xBE697aa2e3C0fAD084d5968EC6C116F026ed577A",
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+      },
+      {
+          "chainId": 3,
+          "address": "0x2EC7591fBeE7B1d70846D6eB4444c5072d7B55b2",
+          "name": "Wrapped Bitcoin",
+          "symbol": " WBTC",
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+      },
+      {
+          "chainId": 3,
+          "address": "0xe9b2B75a58E8E6A8B646ABeC78Be314472642b06",
+          "name": "Binance Coin",
+          "symbol": "BNB",
+          "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+          "chainId": 3,
+          "address": "0xe9b2B75a58E8E6A8B646ABeC78Be314472642b06",
+          "name": "Wrapped Binance Coin",
+          "symbol": "WBNB",
+         "decimals": 18,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      }
+    ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+     }
+}
